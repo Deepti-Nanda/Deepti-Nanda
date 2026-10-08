@@ -53,6 +53,10 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepti-Nanda&layout=compact&theme=tokyonight&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepti-Nanda&layout=compact&hide_border=true">
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Deepti-Nanda&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepti-Nanda&hide_border=true">
+  </picture>
 </p>
 
 ### 📫 Let's connect
