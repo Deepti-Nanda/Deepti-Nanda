@@ -42,7 +42,7 @@
 - ⚡ Hackathon builder — I learn by shipping
 - 🧠 DSA practice on [LeetCode](https://leetcode.com/u/Deepti_Nanda/)
 
-### 📊 Stats
+### 📊 Statistics
 
 <p align="center">
   <picture>
