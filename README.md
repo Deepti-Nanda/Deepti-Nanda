@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.gif">
-  <img src="banner-light.gif" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="4276cf47-fb12-47f4-9e97-303549a5dc79.gif">
+  <img src="684ccacb-aa87-4c38-98a0-cdb73029f740.gif" width="100%">
 </picture>
 
 <p align="center">
@@ -10,7 +10,7 @@
   </picture>
 </p>
 
-<img align="right" width="150" src="dragon.png">
+<img align="right" width="150" src="36374b88-fad3-43f5-958f-e7d82529fe50.png">
 
 <p align="center"><em>BCA @ Sarala Birla University · Ranchi, India</em></p>
 
@@ -25,7 +25,7 @@
 
 ### 🚀 Featured Projects
 
-<img align="left" width="160" src="jet.png">
+<img align="left" width="160" src="b4aee0f0-b1cf-435b-b8e8-9a2bd3834fc4.png">
 
 | Project | One-liner | Stack |
 |---|---|---|
@@ -36,7 +36,7 @@
 
 ### 🏆 Highlights
 
-<img align="right" width="160" src="car.png">
+<img align="right" width="160" src="49505395-0f13-4e4c-9b80-6295c3220cfd.png">
 
 - 🛰️ IIRS-ISRO certified in Remote Sensing — Grade A+
 - ⚡ Hackathon builder — I learn by shipping
