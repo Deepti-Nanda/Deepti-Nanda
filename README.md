@@ -42,6 +42,19 @@
 - ⚡ Hackathon builder — I learn by shipping
 - 🧠 DSA practice on [LeetCode](https://leetcode.com/u/Deepti_Nanda/)
 
+### 📊 Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Deepti-Nanda&show_icons=true&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Deepti-Nanda&show_icons=true&hide_border=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepti-Nanda&layout=compact&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepti-Nanda&layout=compact&hide_border=true">
+  </picture>
+</p>
+
 ### 📫 Let's connect
 
 <p align="center">
